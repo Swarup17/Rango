@@ -1,0 +1,2 @@
+# Rango
+django powered project
